@@ -1,2 +1,2 @@
 # Learn-Helm-Chart-Repository
-only test for getter better understanding of helm
+only test to get better understanding of helm
